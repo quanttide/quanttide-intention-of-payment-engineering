@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: 量潮支付工程的意图
+  title: 量潮支付工程意图
   description: 记录量潮支付工程领域的目标、原则与价值主张
   keywords: [支付工程, 交易工程, 账本]
   authors:
